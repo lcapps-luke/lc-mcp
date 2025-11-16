@@ -46,9 +46,6 @@ class Main{
 
 		var stdioTransport = new InputOutputTransport(mcp, Sys.stdin(), Sys.stdout());
 		stdioTransport.run();
-
-		// mcp protocol obj - routes messages, creates responses
-		// transport obj - abstract, converts messages to io and back
 	}
 
 	private static function onListDirectory(args:DynamicAccess<Dynamic>):McpToolResult {

@@ -1,0 +1,11 @@
+{
+	"name": "lc-mcp",
+	"url" : "https://github.com/lcapps-luke/lc-mcp",
+	"license": "GPL",
+	"tags": ["MCP"],
+	"description": "MCP Server Library",
+	"version": "0.0.1",
+	"classPath": "src",
+	"releasenote": "Initial",
+	"contributors": ["lcann"]
+  }
